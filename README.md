@@ -18,7 +18,7 @@ Obtenir des fun fact sur des chats ou chevaux.
 
 ## Utilisation
 
-1. Exécutez la commande `npm start` pour démarrer l'application.
+1. Exécutez la commande `npx ts-node serveur.ts` pour démarrer l'application.
 2. Accédez à l'URL `http://localhost:3000` dans votre navigateur.
 3. Accéder à Swagger via `http://localhost:3000/api-docs`.
 
